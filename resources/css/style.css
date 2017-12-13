@@ -16,7 +16,37 @@ h1 {
   color: white;
 }
 
-#home p a {
+a {
   font-size: 18px;
   color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  background-image: url("../images/background.png");
+  background-size; cover;
+  background-position: center;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
 }
